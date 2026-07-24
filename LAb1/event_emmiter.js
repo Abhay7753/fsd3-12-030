@@ -1,3 +1,5 @@
+import{EventEmitter} from "node:events";
+
 const login =(name)=>{
     console.log(`${name}logged in`);
 

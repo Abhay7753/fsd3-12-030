@@ -13,10 +13,6 @@ function main() {
   // setInterval(fun1,1000);
   setImmediate(fun2);
   fun3();
-  process.nextTick(fun3);
   console.log("end");
 }
 main();
-
-// # a function not executed immediatly but must be exexuted after a it has some status during the execution at final it
-// it my resolve 

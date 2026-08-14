@@ -1,0 +1,3 @@
+import { appendFile } from "fs/promises";
+
+await appendFile("hello.txt", "\nFs is much easy than others");

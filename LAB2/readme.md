@@ -1,13 +1,10 @@
-# Event loop 
-js  is synchronous an  d single 
-threaded by default
+# file system (fs module)
+fs module directly communicate with operating sysytem with an a browser the common operation on a file or folder are 1.file = write File ,read file ,append file 2. Folder = Mkdir/Md
+3. file metadat
+  start 
+  lstart
+  rstart
+  
 
-## There can be async behavior 
--wwith BrowerAPI
-setTimeout ,setInterval,
-setImmediate ,nextTick
--with promises
--with event handlers 
-# modern js are divided in two categories 
-1 extension is .js CommonJs(.cjs)-> supports oops 
-2 extenxion is .cjs moduleJS(.mjs)-> follow modular approach -> import 
+
+  all function are promise so it must be call him await if 

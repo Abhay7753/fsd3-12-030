@@ -1,0 +1,13 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "js  is synchronous an  d single \r threaded by default",
+  "main": "dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

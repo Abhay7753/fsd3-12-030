@@ -6,4 +6,4 @@ form.on("submit",(uname,password)=>{
     console.log(`user password:${password}`);
 
 });
-form.emit("submit","abs\cd@abc.com","12455555")
+form.emit("submit","abs\cd@abc.com","124h5858855555")

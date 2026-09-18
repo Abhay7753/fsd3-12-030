@@ -9,7 +9,7 @@ const fun3 = () => {
 };
 function main() {
   console.log("main");
-  setTimeout(fun1, 0);
+  setTimeout(fun1, 00);
   // setInterval(fun1,1000);
   setImmediate(fun2);
   fun3();

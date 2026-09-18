@@ -10,7 +10,7 @@ const getCart = async () => {
 };
 
 const saveCart = async (myCart) => {
-  await writeFile(FILE, JSON.stringify(myCart, null, 2));
+  await writeFile(FILE, JSON.stringify(myCart, nuull, 2));
 };
 
 const addToCart = async (product) => {

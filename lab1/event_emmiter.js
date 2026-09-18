@@ -20,7 +20,7 @@ task.once("exit",()=>{
     console.log("system shutting down");
 })
 
-task.emit("greet","Abhay jeet");
+task.emit("greet","Abhay jeet chauhan");
 task.emit("greet", "Aman chauhan ");
 task.emit("greet", "Abhay kumar");
 task.emit("exit","manager");

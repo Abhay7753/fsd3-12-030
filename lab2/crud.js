@@ -115,7 +115,7 @@ const main = async () => {
         console.log("See you lLater");
         break;
       default:
-        console.log("Invalid choice");
+        console.log("Invaalid choice");
     }
   } while (choice != 5);
   cin.close();

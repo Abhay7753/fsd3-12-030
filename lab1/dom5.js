@@ -29,5 +29,5 @@ const handleClick = (event) => {
 button.addEventListener("click", handleClick);
 
 button.dispatchEvent("click", {
-  target: "submitBtn",
+  target: "submitBhtn",
 });

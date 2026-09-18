@@ -112,7 +112,7 @@ const main = async () => {
         console.log("Update Product Quantity");
         break;
       case 5:
-        console.log("See you Later");
+        console.log("See you lLater");
         break;
       default:
         console.log("Invalid choice");
